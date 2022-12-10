@@ -5,7 +5,7 @@
 - 🌱 I’m currently doing a PhD in computer vision and in biomechanics in Grenoble, France. \
   I'm working on markerless motion capture applied to sports.
 
-- :monkey_face: I'm also occasionally doing artistic parkour performances.\
+- :monkey_face: Before that, I was a professional parkour artist.\
   See a video of [one of our performances here](https://www.youtube.com/watch?v=xUVjlUrHqXk), or a video of [me at Ninja Warrior](https://www.youtube.com/watch?v=lm3TyZ8L9S0).
  
 - 📫 How to reach me: contact@david-pagnon.com
