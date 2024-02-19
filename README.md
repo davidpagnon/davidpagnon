@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in learning in a general sense, and in particular in anything related to research in sports.
 
-- 🌱 I just completed a PhD in computer vision and in biomechanics in Grenoble, France, and am currently pursuing a post-doc in Bath, UK. \
+- 🌱 After completing a PhD in computer vision and biomechanics in Grenoble, France, I am currently pursuing a post-doc in Bath, UK. \
   I'm working on markerless motion capture applied to sports.
 
 - :monkey_face: Before that, I was a professional parkour artist. I am still performing part-time.\
