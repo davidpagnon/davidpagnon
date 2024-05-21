@@ -16,10 +16,13 @@
   https://www.facebook.com/DavidPagnonPro \
   http://www.youtube.com/c/DavidPagnon 
 
-<!---
-  [![David's GitHub stats](https://github-readme-stats-nu-orcin-94.vercel.app/api?username=davidpagnon&theme=transparent&include_all_commits=True&show_icons=true&rank_icon=github&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+  Does not include contributions to other organisations... Tried to create a fork and follow this but unsuccessful. https://github.com/anuraghazra/github-readme-stats/pull/2459
+  
+  [![David's GitHub stats](https://github-readme-stats-nu-orcin-94.vercel.app/api?username=davidpagnon&count_private=true&theme=transparent&include_all_commits=True&show_icons=true&rank_icon=github&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   ![Top Langs](https://github-readme-stats-nu-orcin-94.vercel.app/api/top-langs/?username=davidpagnon&layout=compact&theme=transparent&hide=jupyter%20notebook)
---->
+-->
+
 
 <!---
 davidpagnon/davidpagnon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
