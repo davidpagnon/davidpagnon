@@ -17,6 +17,11 @@
   http://www.youtube.com/c/DavidPagnon 
 
 <!---
+  [![David's GitHub stats](https://github-readme-stats-nu-orcin-94.vercel.app/api?username=davidpagnon&theme=transparent&include_all_commits=True&show_icons=true&rank_icon=github&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats-nu-orcin-94.vercel.app/api/top-langs/?username=davidpagnon&layout=compact&theme=transparent&hide=jupyter%20notebook)
+--->
+
+<!---
 davidpagnon/davidpagnon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
