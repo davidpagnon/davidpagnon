@@ -1,15 +1,13 @@
 - 👋 Hi, I’m @davidpagnon
 
-- 👀 I’m interested in learning in a general sense, and in particular in anything related to research in sports.
+- 👀 I’m interested in learning in a general sense, and in particular in anything related to sports and arts. I created two widespread open-source applications for markerless motion analysis: [Pose2Sim](https://github.com/perfanalytics/pose2sim) and [Sports2D](https://github.com/davidpagnon/Sports2D).
 
-- 🌱 After completing a PhD in computer vision and biomechanics in Grenoble, France, I am currently pursuing a post-doc in Bath, UK. \
-  I'm working on markerless motion capture applied to sports.
+- 🌱 In 2023, I completed a PhD in computer vision and biomechanics in Grenoble, France. I am now splitting my time between a post-doc research position at the University of Bath, UK, and a computer vision engineer position at [ForceTeck](https://forceteck.com/). 
 
-- :monkey_face: Before that, I was a professional parkour artist. I am still performing part-time.\
+- :monkey_face: Before that, I was a professional parkour artist. I am still performing part-time all over Europe.\
   See a video of [one of our performances here](https://www.youtube.com/watch?v=xUVjlUrHqXk), or a video of [me at Ninja Warrior](https://www.youtube.com/watch?v=lm3TyZ8L9S0).
  
 - 📫 How to reach me: contact@david-pagnon.com
-
 
   http://david-pagnon.com/ \
   https://www.instagram.com/davidpagnonpro/ \
